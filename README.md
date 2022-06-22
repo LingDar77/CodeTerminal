@@ -1,12 +1,10 @@
-# CodeTerminal README
-
-This is the README for your extension "CodeTerminal". After writing up a brief description, we recommend including the following sections.
+# CodeTerminal VSCode 快速终端指令
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+### 快速切换终端
 
-For example if there is an image subfolder under your extension project workspace:
+### 快速输入指令
 
 \!\[feature X\]\(images/feature-x.png\)
 
